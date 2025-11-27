@@ -1,6 +1,8 @@
 # Autodesm
 Autodesmotic reactions for strain energy evaluation
 
+[![DOI](https://zenodo.org/badge/1063683266.svg)](https://doi.org/10.5281/zenodo.17732801)
+
 **Source codes:** Autodesmotic reactions for strain energy evaluation  
 **Last modified:** September 25, 2025  
 **License:** For academic and non-commercial use only  
